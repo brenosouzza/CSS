@@ -1,0 +1,20 @@
+.card {
+    background-color: darkred;
+    width: 400px;
+    padding: 20px;
+    border: 2px solid darkorange;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-family: monospace;
+}
+
+.avatar {
+    background-color: darkorange;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.destaque {
+    color: wheat;
+}
